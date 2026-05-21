@@ -6,6 +6,7 @@ public class AmstrongNumber {
         int n = sc.nextInt();
         System.out.println(isAmstrong(n));
     }
+    //amstrong number function
     static boolean isAmstrong(int num){
         int ans = num;
         int sum = 0;
