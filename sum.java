@@ -6,7 +6,7 @@ public class sum {
         int ans = sum();
         System.out.println(ans);
     }
-    //sum function
+    //sum function to add two numbers
     public static int sum(){
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
