@@ -6,6 +6,7 @@ public class sum {
         int ans = sum();
         System.out.println(ans);
     }
+    //sum function
     public static int sum(){
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
